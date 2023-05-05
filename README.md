@@ -23,7 +23,7 @@
 
 -[Link to live AR site 04](https://vr-marker04.glitch.me)
 
--[Link to live VR site 01]()
+-[Link to live AR site 05](https://example15.glitch.me)
 
 -[Link to edit AR site 01](https://glitch.com/edit/#!/vr-marker01)
 
@@ -33,4 +33,9 @@
 
 -[Link to edit AR site 04](https://glitch.com/edit/#!/vr-marker04)
 
+-[Link to edit AR site 05](https://glitch.com/edit/#!/example15?path=index.html%3A67%3A122)
+
+-[Link to live VR site 01](https://vr-world-c.glitch.me)
+
 -[Link to edit VR site 01](https://glitch.com/edit/#!/vr-world-c)
+
